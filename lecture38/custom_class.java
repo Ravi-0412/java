@@ -1,6 +1,7 @@
 class Employee{
     int id;
     String name;
+    
     public void printDetails(){
         System.out.println("my id is "+ id);
         System.out.println("my name is "+ name);
