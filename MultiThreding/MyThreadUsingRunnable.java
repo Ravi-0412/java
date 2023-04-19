@@ -27,5 +27,3 @@ class MyThreadUsingRunnable implements Runnable {
 
 
 
-
-N
